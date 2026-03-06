@@ -2,7 +2,6 @@ name: Daily DSA (Gemini)
 
 on:
   schedule:
-    # Runs daily at 02:23 UTC (avoid top-of-hour load spikes)
     - cron: "23 2 * * *"
   workflow_dispatch: {}
 
@@ -16,8 +15,13 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
+    env:
+      GEMINI_MODEL: gemini-2.5-flash
+      START_DATE: "2026-03-06"   # change this to the date you want to count as Day 1
+
     steps:
-      - name: Checkout (default branch)
+      - name: Checkout repository
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
@@ -32,20 +36,17 @@ jobs:
           python -m pip install -U pip
           pip install -r requirements.txt
 
-      - name: Generate solution (Gemini)
+      - name: Ensure solutions directory exists
+        run: mkdir -p solutions
+
+      - name: Generate daily solution using Gemini
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash
         run: |
           python scripts/generate_daily_solution.py
 
-      - name: Create branch + commit + push
+      - name: Commit and push to main
         run: |
-          DAY=$(python -c "from datetime import datetime, timezone; d=datetime.now(timezone.utc).timetuple().tm_yday; print(((d-1)%365)+1)")
-          BRANCH="Day ${DAY}"
-
-          git switch -c "$BRANCH"
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
@@ -56,5 +57,5 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Add solution for Day ${DAY}"
-          git push --set-upstream origin "$BRANCH"
+          git commit -m "Add daily DSA solution"
+          git push origin main
