@@ -1,0 +1,176 @@
+from pathlib import Path
+
+prompts = []
+
+# Curated set of common LeetCode-style problem titles by topic (not exhaustive).
+base = [
+    # Arrays / Hashing / Two pointers
+    "Two Sum",
+    "Contains Duplicate",
+    "Product of Array Except Self",
+    "Maximum Subarray (Kadane)",
+    "Best Time to Buy and Sell Stock",
+    "Best Time to Buy and Sell Stock II",
+    "Move Zeroes",
+    "Rotate Array",
+    "Merge Sorted Array",
+    "Intersection of Two Arrays II",
+    "3Sum",
+    "4Sum",
+    "Container With Most Water",
+    "Trapping Rain Water",
+    "Subarray Sum Equals K",
+    "Find All Duplicates in an Array",
+    "Find the Duplicate Number",
+    "Longest Consecutive Sequence",
+    "Minimum Size Subarray Sum",
+    "Spiral Matrix",
+    "Set Matrix Zeroes",
+    "Next Permutation",
+    "Kth Largest Element in an Array",
+    "Top K Frequent Elements",
+    "Group Anagrams",
+    "Valid Anagram",
+    "Valid Palindrome",
+    "Longest Palindromic Substring",
+    "Encode and Decode Strings (Design)",
+    "Longest Substring Without Repeating Characters",
+    # Stack / Queue
+    "Valid Parentheses",
+    "Min Stack",
+    "Evaluate Reverse Polish Notation",
+    "Daily Temperatures",
+    "Car Fleet",
+    "Largest Rectangle in Histogram",
+    "Sliding Window Maximum",
+    "Implement Queue using Stacks",
+    "Implement Stack using Queues",
+    "Design Circular Queue",
+    # Linked List
+    "Reverse Linked List",
+    "Merge Two Sorted Lists",
+    "Remove Nth Node From End of List",
+    "Reorder List",
+    "Linked List Cycle",
+    "Linked List Cycle II",
+    "Intersection of Two Linked Lists",
+    "Add Two Numbers",
+    "Copy List with Random Pointer",
+    "LRU Cache (Design)",
+    # Binary Search
+    "Binary Search",
+    "Search a 2D Matrix",
+    "Find Minimum in Rotated Sorted Array",
+    "Search in Rotated Sorted Array",
+    "Koko Eating Bananas",
+    "Median of Two Sorted Arrays",
+    "Time Based Key-Value Store (Design)",
+    # Trees
+    "Invert Binary Tree",
+    "Maximum Depth of Binary Tree",
+    "Diameter of Binary Tree",
+    "Balanced Binary Tree",
+    "Same Tree",
+    "Subtree of Another Tree",
+    "Lowest Common Ancestor of a BST",
+    "Binary Tree Level Order Traversal",
+    "Binary Tree Right Side View",
+    "Validate Binary Search Tree",
+    "Kth Smallest Element in a BST",
+    "Construct Binary Tree from Preorder and Inorder Traversal",
+    "Serialize and Deserialize Binary Tree (Design)",
+    # Heap / Greedy
+    "Merge K Sorted Lists",
+    "Find Median from Data Stream (Design)",
+    "Task Scheduler",
+    "Reorganize String",
+    "Minimum Number of Arrows to Burst Balloons",
+    "Non-overlapping Intervals",
+    "Jump Game",
+    "Gas Station",
+    "Candy",
+    # Graphs
+    "Number of Islands",
+    "Clone Graph",
+    "Course Schedule",
+    "Course Schedule II",
+    "Pacific Atlantic Water Flow",
+    "Rotting Oranges",
+    "Walls and Gates",
+    "Word Ladder",
+    "Redundant Connection",
+    "Network Delay Time",
+    "Cheapest Flights Within K Stops",
+    # DP
+    "Climbing Stairs",
+    "House Robber",
+    "House Robber II",
+    "Coin Change",
+    "Longest Increasing Subsequence",
+    "Longest Common Subsequence",
+    "Edit Distance",
+    "Word Break",
+    "Partition Equal Subset Sum",
+    "Unique Paths",
+    "Unique Paths II",
+    "Min Cost Climbing Stairs",
+    "Decode Ways",
+    "Palindromic Substrings",
+    # Backtracking
+    "Subsets",
+    "Subsets II",
+    "Permutations",
+    "Permutations II",
+    "Combination Sum",
+    "Combination Sum II",
+    "Generate Parentheses",
+    "N-Queens",
+    "Letter Combinations of a Phone Number",
+    "Word Search",
+    # Math / Bit
+    "Single Number",
+    "Counting Bits",
+    "Reverse Bits",
+    "Number of 1 Bits",
+    "Pow(x, n)",
+    "Sqrt(x)",
+    "Happy Number",
+    "Plus One",
+    # Strings / Parsing
+    "Valid Number",
+    "String to Integer (atoi)",
+    "Simplify Path",
+    "Basic Calculator",
+    "Longest Common Prefix",
+    "Implement strStr()",
+    # Design / Misc
+    "Design Trie (Prefix Tree)",
+    "Implement Trie",
+    "Add and Search Word (Data Structure Design)",
+    "Design HashMap",
+    "Design HashSet",
+]
+
+# Generate 365 prompts by cycling base list and adding varied constraints.
+constraints = [
+    "Return a clean Python solution with optimal time complexity.",
+    "Include brief inline comments explaining the core idea.",
+    "Use O(1) extra space where possible.",
+    "Provide both iterative and recursive versions if meaningful.",
+    "Handle edge cases explicitly (empty input, duplicates, extremes).",
+    "Prefer readability but keep it efficient.",
+    "Write the solution as a LeetCode-style class `Solution` with the required method signature.",
+    "Avoid external libraries; standard library only.",
+    "Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases.",
+]
+
+for i in range(365):
+    title = base[i % len(base)]
+    c = constraints[i % len(constraints)]
+    prompts.append(
+        f"Day {i+1}: Solve the LeetCode-style problem '{title}'. {c} Output ONLY Python code."
+    )
+
+out_path = Path("/workspaces/Daily-Algorithm-Solver/leetcode_365_prompts.txt")
+out_path.write_text("\n".join(prompts), encoding="utf-8")
+str(out_path)

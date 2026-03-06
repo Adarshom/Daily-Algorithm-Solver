@@ -1,0 +1,365 @@
+Day 1: Solve the LeetCode-style problem 'Two Sum'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 2: Solve the LeetCode-style problem 'Contains Duplicate'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 3: Solve the LeetCode-style problem 'Product of Array Except Self'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 4: Solve the LeetCode-style problem 'Maximum Subarray (Kadane)'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 5: Solve the LeetCode-style problem 'Best Time to Buy and Sell Stock'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 6: Solve the LeetCode-style problem 'Best Time to Buy and Sell Stock II'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 7: Solve the LeetCode-style problem 'Move Zeroes'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 8: Solve the LeetCode-style problem 'Rotate Array'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 9: Solve the LeetCode-style problem 'Merge Sorted Array'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 10: Solve the LeetCode-style problem 'Intersection of Two Arrays II'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 11: Solve the LeetCode-style problem '3Sum'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 12: Solve the LeetCode-style problem '4Sum'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 13: Solve the LeetCode-style problem 'Container With Most Water'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 14: Solve the LeetCode-style problem 'Trapping Rain Water'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 15: Solve the LeetCode-style problem 'Subarray Sum Equals K'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 16: Solve the LeetCode-style problem 'Find All Duplicates in an Array'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 17: Solve the LeetCode-style problem 'Find the Duplicate Number'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 18: Solve the LeetCode-style problem 'Longest Consecutive Sequence'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 19: Solve the LeetCode-style problem 'Minimum Size Subarray Sum'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 20: Solve the LeetCode-style problem 'Spiral Matrix'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 21: Solve the LeetCode-style problem 'Set Matrix Zeroes'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 22: Solve the LeetCode-style problem 'Next Permutation'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 23: Solve the LeetCode-style problem 'Kth Largest Element in an Array'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 24: Solve the LeetCode-style problem 'Top K Frequent Elements'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 25: Solve the LeetCode-style problem 'Group Anagrams'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 26: Solve the LeetCode-style problem 'Valid Anagram'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 27: Solve the LeetCode-style problem 'Valid Palindrome'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 28: Solve the LeetCode-style problem 'Longest Palindromic Substring'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 29: Solve the LeetCode-style problem 'Encode and Decode Strings (Design)'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 30: Solve the LeetCode-style problem 'Longest Substring Without Repeating Characters'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 31: Solve the LeetCode-style problem 'Valid Parentheses'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 32: Solve the LeetCode-style problem 'Min Stack'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 33: Solve the LeetCode-style problem 'Evaluate Reverse Polish Notation'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 34: Solve the LeetCode-style problem 'Daily Temperatures'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 35: Solve the LeetCode-style problem 'Car Fleet'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 36: Solve the LeetCode-style problem 'Largest Rectangle in Histogram'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 37: Solve the LeetCode-style problem 'Sliding Window Maximum'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 38: Solve the LeetCode-style problem 'Implement Queue using Stacks'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 39: Solve the LeetCode-style problem 'Implement Stack using Queues'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 40: Solve the LeetCode-style problem 'Design Circular Queue'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 41: Solve the LeetCode-style problem 'Reverse Linked List'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 42: Solve the LeetCode-style problem 'Merge Two Sorted Lists'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 43: Solve the LeetCode-style problem 'Remove Nth Node From End of List'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 44: Solve the LeetCode-style problem 'Reorder List'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 45: Solve the LeetCode-style problem 'Linked List Cycle'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 46: Solve the LeetCode-style problem 'Linked List Cycle II'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 47: Solve the LeetCode-style problem 'Intersection of Two Linked Lists'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 48: Solve the LeetCode-style problem 'Add Two Numbers'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 49: Solve the LeetCode-style problem 'Copy List with Random Pointer'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 50: Solve the LeetCode-style problem 'LRU Cache (Design)'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 51: Solve the LeetCode-style problem 'Binary Search'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 52: Solve the LeetCode-style problem 'Search a 2D Matrix'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 53: Solve the LeetCode-style problem 'Find Minimum in Rotated Sorted Array'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 54: Solve the LeetCode-style problem 'Search in Rotated Sorted Array'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 55: Solve the LeetCode-style problem 'Koko Eating Bananas'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 56: Solve the LeetCode-style problem 'Median of Two Sorted Arrays'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 57: Solve the LeetCode-style problem 'Time Based Key-Value Store (Design)'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 58: Solve the LeetCode-style problem 'Invert Binary Tree'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 59: Solve the LeetCode-style problem 'Maximum Depth of Binary Tree'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 60: Solve the LeetCode-style problem 'Diameter of Binary Tree'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 61: Solve the LeetCode-style problem 'Balanced Binary Tree'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 62: Solve the LeetCode-style problem 'Same Tree'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 63: Solve the LeetCode-style problem 'Subtree of Another Tree'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 64: Solve the LeetCode-style problem 'Lowest Common Ancestor of a BST'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 65: Solve the LeetCode-style problem 'Binary Tree Level Order Traversal'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 66: Solve the LeetCode-style problem 'Binary Tree Right Side View'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 67: Solve the LeetCode-style problem 'Validate Binary Search Tree'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 68: Solve the LeetCode-style problem 'Kth Smallest Element in a BST'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 69: Solve the LeetCode-style problem 'Construct Binary Tree from Preorder and Inorder Traversal'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 70: Solve the LeetCode-style problem 'Serialize and Deserialize Binary Tree (Design)'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 71: Solve the LeetCode-style problem 'Merge K Sorted Lists'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 72: Solve the LeetCode-style problem 'Find Median from Data Stream (Design)'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 73: Solve the LeetCode-style problem 'Task Scheduler'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 74: Solve the LeetCode-style problem 'Reorganize String'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 75: Solve the LeetCode-style problem 'Minimum Number of Arrows to Burst Balloons'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 76: Solve the LeetCode-style problem 'Non-overlapping Intervals'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 77: Solve the LeetCode-style problem 'Jump Game'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 78: Solve the LeetCode-style problem 'Gas Station'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 79: Solve the LeetCode-style problem 'Candy'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 80: Solve the LeetCode-style problem 'Number of Islands'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 81: Solve the LeetCode-style problem 'Clone Graph'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 82: Solve the LeetCode-style problem 'Course Schedule'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 83: Solve the LeetCode-style problem 'Course Schedule II'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 84: Solve the LeetCode-style problem 'Pacific Atlantic Water Flow'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 85: Solve the LeetCode-style problem 'Rotting Oranges'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 86: Solve the LeetCode-style problem 'Walls and Gates'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 87: Solve the LeetCode-style problem 'Word Ladder'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 88: Solve the LeetCode-style problem 'Redundant Connection'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 89: Solve the LeetCode-style problem 'Network Delay Time'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 90: Solve the LeetCode-style problem 'Cheapest Flights Within K Stops'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 91: Solve the LeetCode-style problem 'Climbing Stairs'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 92: Solve the LeetCode-style problem 'House Robber'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 93: Solve the LeetCode-style problem 'House Robber II'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 94: Solve the LeetCode-style problem 'Coin Change'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 95: Solve the LeetCode-style problem 'Longest Increasing Subsequence'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 96: Solve the LeetCode-style problem 'Longest Common Subsequence'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 97: Solve the LeetCode-style problem 'Edit Distance'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 98: Solve the LeetCode-style problem 'Word Break'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 99: Solve the LeetCode-style problem 'Partition Equal Subset Sum'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 100: Solve the LeetCode-style problem 'Unique Paths'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 101: Solve the LeetCode-style problem 'Unique Paths II'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 102: Solve the LeetCode-style problem 'Min Cost Climbing Stairs'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 103: Solve the LeetCode-style problem 'Decode Ways'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 104: Solve the LeetCode-style problem 'Palindromic Substrings'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 105: Solve the LeetCode-style problem 'Subsets'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 106: Solve the LeetCode-style problem 'Subsets II'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 107: Solve the LeetCode-style problem 'Permutations'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 108: Solve the LeetCode-style problem 'Permutations II'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 109: Solve the LeetCode-style problem 'Combination Sum'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 110: Solve the LeetCode-style problem 'Combination Sum II'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 111: Solve the LeetCode-style problem 'Generate Parentheses'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 112: Solve the LeetCode-style problem 'N-Queens'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 113: Solve the LeetCode-style problem 'Letter Combinations of a Phone Number'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 114: Solve the LeetCode-style problem 'Word Search'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 115: Solve the LeetCode-style problem 'Single Number'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 116: Solve the LeetCode-style problem 'Counting Bits'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 117: Solve the LeetCode-style problem 'Reverse Bits'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 118: Solve the LeetCode-style problem 'Number of 1 Bits'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 119: Solve the LeetCode-style problem 'Pow(x, n)'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 120: Solve the LeetCode-style problem 'Sqrt(x)'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 121: Solve the LeetCode-style problem 'Happy Number'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 122: Solve the LeetCode-style problem 'Plus One'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 123: Solve the LeetCode-style problem 'Valid Number'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 124: Solve the LeetCode-style problem 'String to Integer (atoi)'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 125: Solve the LeetCode-style problem 'Simplify Path'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 126: Solve the LeetCode-style problem 'Basic Calculator'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 127: Solve the LeetCode-style problem 'Longest Common Prefix'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 128: Solve the LeetCode-style problem 'Implement strStr()'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 129: Solve the LeetCode-style problem 'Design Trie (Prefix Tree)'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 130: Solve the LeetCode-style problem 'Implement Trie'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 131: Solve the LeetCode-style problem 'Add and Search Word (Data Structure Design)'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 132: Solve the LeetCode-style problem 'Design HashMap'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 133: Solve the LeetCode-style problem 'Design HashSet'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 134: Solve the LeetCode-style problem 'Two Sum'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 135: Solve the LeetCode-style problem 'Contains Duplicate'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 136: Solve the LeetCode-style problem 'Product of Array Except Self'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 137: Solve the LeetCode-style problem 'Maximum Subarray (Kadane)'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 138: Solve the LeetCode-style problem 'Best Time to Buy and Sell Stock'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 139: Solve the LeetCode-style problem 'Best Time to Buy and Sell Stock II'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 140: Solve the LeetCode-style problem 'Move Zeroes'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 141: Solve the LeetCode-style problem 'Rotate Array'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 142: Solve the LeetCode-style problem 'Merge Sorted Array'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 143: Solve the LeetCode-style problem 'Intersection of Two Arrays II'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 144: Solve the LeetCode-style problem '3Sum'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 145: Solve the LeetCode-style problem '4Sum'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 146: Solve the LeetCode-style problem 'Container With Most Water'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 147: Solve the LeetCode-style problem 'Trapping Rain Water'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 148: Solve the LeetCode-style problem 'Subarray Sum Equals K'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 149: Solve the LeetCode-style problem 'Find All Duplicates in an Array'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 150: Solve the LeetCode-style problem 'Find the Duplicate Number'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 151: Solve the LeetCode-style problem 'Longest Consecutive Sequence'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 152: Solve the LeetCode-style problem 'Minimum Size Subarray Sum'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 153: Solve the LeetCode-style problem 'Spiral Matrix'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 154: Solve the LeetCode-style problem 'Set Matrix Zeroes'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 155: Solve the LeetCode-style problem 'Next Permutation'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 156: Solve the LeetCode-style problem 'Kth Largest Element in an Array'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 157: Solve the LeetCode-style problem 'Top K Frequent Elements'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 158: Solve the LeetCode-style problem 'Group Anagrams'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 159: Solve the LeetCode-style problem 'Valid Anagram'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 160: Solve the LeetCode-style problem 'Valid Palindrome'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 161: Solve the LeetCode-style problem 'Longest Palindromic Substring'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 162: Solve the LeetCode-style problem 'Encode and Decode Strings (Design)'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 163: Solve the LeetCode-style problem 'Longest Substring Without Repeating Characters'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 164: Solve the LeetCode-style problem 'Valid Parentheses'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 165: Solve the LeetCode-style problem 'Min Stack'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 166: Solve the LeetCode-style problem 'Evaluate Reverse Polish Notation'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 167: Solve the LeetCode-style problem 'Daily Temperatures'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 168: Solve the LeetCode-style problem 'Car Fleet'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 169: Solve the LeetCode-style problem 'Largest Rectangle in Histogram'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 170: Solve the LeetCode-style problem 'Sliding Window Maximum'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 171: Solve the LeetCode-style problem 'Implement Queue using Stacks'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 172: Solve the LeetCode-style problem 'Implement Stack using Queues'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 173: Solve the LeetCode-style problem 'Design Circular Queue'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 174: Solve the LeetCode-style problem 'Reverse Linked List'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 175: Solve the LeetCode-style problem 'Merge Two Sorted Lists'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 176: Solve the LeetCode-style problem 'Remove Nth Node From End of List'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 177: Solve the LeetCode-style problem 'Reorder List'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 178: Solve the LeetCode-style problem 'Linked List Cycle'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 179: Solve the LeetCode-style problem 'Linked List Cycle II'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 180: Solve the LeetCode-style problem 'Intersection of Two Linked Lists'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 181: Solve the LeetCode-style problem 'Add Two Numbers'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 182: Solve the LeetCode-style problem 'Copy List with Random Pointer'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 183: Solve the LeetCode-style problem 'LRU Cache (Design)'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 184: Solve the LeetCode-style problem 'Binary Search'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 185: Solve the LeetCode-style problem 'Search a 2D Matrix'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 186: Solve the LeetCode-style problem 'Find Minimum in Rotated Sorted Array'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 187: Solve the LeetCode-style problem 'Search in Rotated Sorted Array'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 188: Solve the LeetCode-style problem 'Koko Eating Bananas'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 189: Solve the LeetCode-style problem 'Median of Two Sorted Arrays'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 190: Solve the LeetCode-style problem 'Time Based Key-Value Store (Design)'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 191: Solve the LeetCode-style problem 'Invert Binary Tree'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 192: Solve the LeetCode-style problem 'Maximum Depth of Binary Tree'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 193: Solve the LeetCode-style problem 'Diameter of Binary Tree'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 194: Solve the LeetCode-style problem 'Balanced Binary Tree'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 195: Solve the LeetCode-style problem 'Same Tree'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 196: Solve the LeetCode-style problem 'Subtree of Another Tree'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 197: Solve the LeetCode-style problem 'Lowest Common Ancestor of a BST'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 198: Solve the LeetCode-style problem 'Binary Tree Level Order Traversal'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 199: Solve the LeetCode-style problem 'Binary Tree Right Side View'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 200: Solve the LeetCode-style problem 'Validate Binary Search Tree'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 201: Solve the LeetCode-style problem 'Kth Smallest Element in a BST'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 202: Solve the LeetCode-style problem 'Construct Binary Tree from Preorder and Inorder Traversal'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 203: Solve the LeetCode-style problem 'Serialize and Deserialize Binary Tree (Design)'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 204: Solve the LeetCode-style problem 'Merge K Sorted Lists'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 205: Solve the LeetCode-style problem 'Find Median from Data Stream (Design)'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 206: Solve the LeetCode-style problem 'Task Scheduler'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 207: Solve the LeetCode-style problem 'Reorganize String'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 208: Solve the LeetCode-style problem 'Minimum Number of Arrows to Burst Balloons'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 209: Solve the LeetCode-style problem 'Non-overlapping Intervals'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 210: Solve the LeetCode-style problem 'Jump Game'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 211: Solve the LeetCode-style problem 'Gas Station'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 212: Solve the LeetCode-style problem 'Candy'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 213: Solve the LeetCode-style problem 'Number of Islands'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 214: Solve the LeetCode-style problem 'Clone Graph'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 215: Solve the LeetCode-style problem 'Course Schedule'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 216: Solve the LeetCode-style problem 'Course Schedule II'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 217: Solve the LeetCode-style problem 'Pacific Atlantic Water Flow'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 218: Solve the LeetCode-style problem 'Rotting Oranges'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 219: Solve the LeetCode-style problem 'Walls and Gates'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 220: Solve the LeetCode-style problem 'Word Ladder'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 221: Solve the LeetCode-style problem 'Redundant Connection'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 222: Solve the LeetCode-style problem 'Network Delay Time'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 223: Solve the LeetCode-style problem 'Cheapest Flights Within K Stops'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 224: Solve the LeetCode-style problem 'Climbing Stairs'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 225: Solve the LeetCode-style problem 'House Robber'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 226: Solve the LeetCode-style problem 'House Robber II'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 227: Solve the LeetCode-style problem 'Coin Change'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 228: Solve the LeetCode-style problem 'Longest Increasing Subsequence'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 229: Solve the LeetCode-style problem 'Longest Common Subsequence'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 230: Solve the LeetCode-style problem 'Edit Distance'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 231: Solve the LeetCode-style problem 'Word Break'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 232: Solve the LeetCode-style problem 'Partition Equal Subset Sum'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 233: Solve the LeetCode-style problem 'Unique Paths'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 234: Solve the LeetCode-style problem 'Unique Paths II'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 235: Solve the LeetCode-style problem 'Min Cost Climbing Stairs'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 236: Solve the LeetCode-style problem 'Decode Ways'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 237: Solve the LeetCode-style problem 'Palindromic Substrings'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 238: Solve the LeetCode-style problem 'Subsets'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 239: Solve the LeetCode-style problem 'Subsets II'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 240: Solve the LeetCode-style problem 'Permutations'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 241: Solve the LeetCode-style problem 'Permutations II'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 242: Solve the LeetCode-style problem 'Combination Sum'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 243: Solve the LeetCode-style problem 'Combination Sum II'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 244: Solve the LeetCode-style problem 'Generate Parentheses'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 245: Solve the LeetCode-style problem 'N-Queens'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 246: Solve the LeetCode-style problem 'Letter Combinations of a Phone Number'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 247: Solve the LeetCode-style problem 'Word Search'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 248: Solve the LeetCode-style problem 'Single Number'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 249: Solve the LeetCode-style problem 'Counting Bits'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 250: Solve the LeetCode-style problem 'Reverse Bits'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 251: Solve the LeetCode-style problem 'Number of 1 Bits'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 252: Solve the LeetCode-style problem 'Pow(x, n)'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 253: Solve the LeetCode-style problem 'Sqrt(x)'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 254: Solve the LeetCode-style problem 'Happy Number'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 255: Solve the LeetCode-style problem 'Plus One'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 256: Solve the LeetCode-style problem 'Valid Number'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 257: Solve the LeetCode-style problem 'String to Integer (atoi)'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 258: Solve the LeetCode-style problem 'Simplify Path'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 259: Solve the LeetCode-style problem 'Basic Calculator'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 260: Solve the LeetCode-style problem 'Longest Common Prefix'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 261: Solve the LeetCode-style problem 'Implement strStr()'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 262: Solve the LeetCode-style problem 'Design Trie (Prefix Tree)'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 263: Solve the LeetCode-style problem 'Implement Trie'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 264: Solve the LeetCode-style problem 'Add and Search Word (Data Structure Design)'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 265: Solve the LeetCode-style problem 'Design HashMap'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 266: Solve the LeetCode-style problem 'Design HashSet'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 267: Solve the LeetCode-style problem 'Two Sum'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 268: Solve the LeetCode-style problem 'Contains Duplicate'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 269: Solve the LeetCode-style problem 'Product of Array Except Self'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 270: Solve the LeetCode-style problem 'Maximum Subarray (Kadane)'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 271: Solve the LeetCode-style problem 'Best Time to Buy and Sell Stock'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 272: Solve the LeetCode-style problem 'Best Time to Buy and Sell Stock II'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 273: Solve the LeetCode-style problem 'Move Zeroes'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 274: Solve the LeetCode-style problem 'Rotate Array'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 275: Solve the LeetCode-style problem 'Merge Sorted Array'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 276: Solve the LeetCode-style problem 'Intersection of Two Arrays II'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 277: Solve the LeetCode-style problem '3Sum'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 278: Solve the LeetCode-style problem '4Sum'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 279: Solve the LeetCode-style problem 'Container With Most Water'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 280: Solve the LeetCode-style problem 'Trapping Rain Water'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 281: Solve the LeetCode-style problem 'Subarray Sum Equals K'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 282: Solve the LeetCode-style problem 'Find All Duplicates in an Array'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 283: Solve the LeetCode-style problem 'Find the Duplicate Number'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 284: Solve the LeetCode-style problem 'Longest Consecutive Sequence'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 285: Solve the LeetCode-style problem 'Minimum Size Subarray Sum'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 286: Solve the LeetCode-style problem 'Spiral Matrix'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 287: Solve the LeetCode-style problem 'Set Matrix Zeroes'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 288: Solve the LeetCode-style problem 'Next Permutation'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 289: Solve the LeetCode-style problem 'Kth Largest Element in an Array'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 290: Solve the LeetCode-style problem 'Top K Frequent Elements'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 291: Solve the LeetCode-style problem 'Group Anagrams'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 292: Solve the LeetCode-style problem 'Valid Anagram'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 293: Solve the LeetCode-style problem 'Valid Palindrome'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 294: Solve the LeetCode-style problem 'Longest Palindromic Substring'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 295: Solve the LeetCode-style problem 'Encode and Decode Strings (Design)'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 296: Solve the LeetCode-style problem 'Longest Substring Without Repeating Characters'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 297: Solve the LeetCode-style problem 'Valid Parentheses'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 298: Solve the LeetCode-style problem 'Min Stack'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 299: Solve the LeetCode-style problem 'Evaluate Reverse Polish Notation'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 300: Solve the LeetCode-style problem 'Daily Temperatures'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 301: Solve the LeetCode-style problem 'Car Fleet'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 302: Solve the LeetCode-style problem 'Largest Rectangle in Histogram'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 303: Solve the LeetCode-style problem 'Sliding Window Maximum'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 304: Solve the LeetCode-style problem 'Implement Queue using Stacks'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 305: Solve the LeetCode-style problem 'Implement Stack using Queues'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 306: Solve the LeetCode-style problem 'Design Circular Queue'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 307: Solve the LeetCode-style problem 'Reverse Linked List'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 308: Solve the LeetCode-style problem 'Merge Two Sorted Lists'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 309: Solve the LeetCode-style problem 'Remove Nth Node From End of List'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 310: Solve the LeetCode-style problem 'Reorder List'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 311: Solve the LeetCode-style problem 'Linked List Cycle'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 312: Solve the LeetCode-style problem 'Linked List Cycle II'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 313: Solve the LeetCode-style problem 'Intersection of Two Linked Lists'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 314: Solve the LeetCode-style problem 'Add Two Numbers'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 315: Solve the LeetCode-style problem 'Copy List with Random Pointer'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 316: Solve the LeetCode-style problem 'LRU Cache (Design)'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 317: Solve the LeetCode-style problem 'Binary Search'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 318: Solve the LeetCode-style problem 'Search a 2D Matrix'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 319: Solve the LeetCode-style problem 'Find Minimum in Rotated Sorted Array'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 320: Solve the LeetCode-style problem 'Search in Rotated Sorted Array'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 321: Solve the LeetCode-style problem 'Koko Eating Bananas'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 322: Solve the LeetCode-style problem 'Median of Two Sorted Arrays'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 323: Solve the LeetCode-style problem 'Time Based Key-Value Store (Design)'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 324: Solve the LeetCode-style problem 'Invert Binary Tree'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 325: Solve the LeetCode-style problem 'Maximum Depth of Binary Tree'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 326: Solve the LeetCode-style problem 'Diameter of Binary Tree'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 327: Solve the LeetCode-style problem 'Balanced Binary Tree'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 328: Solve the LeetCode-style problem 'Same Tree'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 329: Solve the LeetCode-style problem 'Subtree of Another Tree'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 330: Solve the LeetCode-style problem 'Lowest Common Ancestor of a BST'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 331: Solve the LeetCode-style problem 'Binary Tree Level Order Traversal'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 332: Solve the LeetCode-style problem 'Binary Tree Right Side View'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 333: Solve the LeetCode-style problem 'Validate Binary Search Tree'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 334: Solve the LeetCode-style problem 'Kth Smallest Element in a BST'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 335: Solve the LeetCode-style problem 'Construct Binary Tree from Preorder and Inorder Traversal'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 336: Solve the LeetCode-style problem 'Serialize and Deserialize Binary Tree (Design)'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 337: Solve the LeetCode-style problem 'Merge K Sorted Lists'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 338: Solve the LeetCode-style problem 'Find Median from Data Stream (Design)'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 339: Solve the LeetCode-style problem 'Task Scheduler'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 340: Solve the LeetCode-style problem 'Reorganize String'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 341: Solve the LeetCode-style problem 'Minimum Number of Arrows to Burst Balloons'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 342: Solve the LeetCode-style problem 'Non-overlapping Intervals'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 343: Solve the LeetCode-style problem 'Jump Game'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 344: Solve the LeetCode-style problem 'Gas Station'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 345: Solve the LeetCode-style problem 'Candy'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 346: Solve the LeetCode-style problem 'Number of Islands'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 347: Solve the LeetCode-style problem 'Clone Graph'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 348: Solve the LeetCode-style problem 'Course Schedule'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 349: Solve the LeetCode-style problem 'Course Schedule II'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 350: Solve the LeetCode-style problem 'Pacific Atlantic Water Flow'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 351: Solve the LeetCode-style problem 'Rotting Oranges'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 352: Solve the LeetCode-style problem 'Walls and Gates'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 353: Solve the LeetCode-style problem 'Word Ladder'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 354: Solve the LeetCode-style problem 'Redundant Connection'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 355: Solve the LeetCode-style problem 'Network Delay Time'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 356: Solve the LeetCode-style problem 'Cheapest Flights Within K Stops'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
+Day 357: Solve the LeetCode-style problem 'Climbing Stairs'. Prefer readability but keep it efficient. Output ONLY Python code.
+Day 358: Solve the LeetCode-style problem 'House Robber'. Write the solution as a LeetCode-style class `Solution` with the required method signature. Output ONLY Python code.
+Day 359: Solve the LeetCode-style problem 'House Robber II'. Avoid external libraries; standard library only. Output ONLY Python code.
+Day 360: Solve the LeetCode-style problem 'Coin Change'. Add a small self-test block under `if __name__ == '__main__':` with 2–3 cases. Output ONLY Python code.
+Day 361: Solve the LeetCode-style problem 'Longest Increasing Subsequence'. Return a clean Python solution with optimal time complexity. Output ONLY Python code.
+Day 362: Solve the LeetCode-style problem 'Longest Common Subsequence'. Include brief inline comments explaining the core idea. Output ONLY Python code.
+Day 363: Solve the LeetCode-style problem 'Edit Distance'. Use O(1) extra space where possible. Output ONLY Python code.
+Day 364: Solve the LeetCode-style problem 'Word Break'. Provide both iterative and recursive versions if meaningful. Output ONLY Python code.
+Day 365: Solve the LeetCode-style problem 'Partition Equal Subset Sum'. Handle edge cases explicitly (empty input, duplicates, extremes). Output ONLY Python code.
